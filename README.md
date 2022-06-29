@@ -9,6 +9,9 @@ WALKTHROUGH VIDEO
 
 https://vimeo.com/725099852
 
+![image](https://user-images.githubusercontent.com/101163927/176331523-7c04cb27-506d-4c57-b8e6-0bb4d42c6cf6.png)
+
+
 
 AS A manager
 
