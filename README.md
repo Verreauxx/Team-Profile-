@@ -1,4 +1,15 @@
 # Team-Profile-
+TO RUN
+
+Install dependencies by typing npm install
+
+Then run node index.js
+
+WALKTHROUGH VIDEO
+
+https://vimeo.com/725099852
+
+
 AS A manager
 
 I WANT to generate a webpage that displays my team's basic info
